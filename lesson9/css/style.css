@@ -1,0 +1,126 @@
+.container {
+    max-width:1700px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+header {
+    height: 82px;
+}
+.logo {
+  
+   margin: 20px;
+}
+.ragac {
+    width: 400px;
+    border: 2px solid blue;
+    margin: center;
+    display: flex;
+    justify-content: flex-end;
+} 
+ul {
+    display: flex;
+}
+li {
+    margin: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    color: #636060;
+     
+}
+.c2 {
+    
+    height: 806px;
+    
+    background-image: url("../images/zgva.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top:  10px;
+}
+h1 {
+    font-size: 79px;
+    font-family: 'Roboto', sans-serif;
+    color:#FFFFFF;
+}
+h5 {
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    color:#FFFFFF;
+}
+h3 {
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+    color: #636060;
+}
+h2 {
+    font-size: 28px;
+    font-family: 'Roboto', sans-serif;
+    color: #010101;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+p {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #636060;
+    line-height: 23px;
+    width: 235px;
+    height: 115px;
+}  
+.left-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 30px;
+    width: 400px;
+    margin-right: 200px;
+}
+.right-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 25px;
+    
+}
+
+}
+.h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #343232;
+    margin-top: 12px;
+
+}
+.p2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 20.7px;
+    width: 286px;
+    height: 63px;
+    color: #636060;
+    margin-top: 10px;
+}
+.right-wrapper > div {
+    width: 400px;
+    margin: 5px;
+    
+    
+}
+button {
+    font-size: 48px;
+    color: red;
+}
+.containers {
+    max-width:1700px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
